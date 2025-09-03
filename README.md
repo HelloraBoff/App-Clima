@@ -1,0 +1,1 @@
+-> 1) Instalar requisitos: - pip install -r requirements.txt
